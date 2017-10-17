@@ -1,0 +1,25 @@
+{
+    "name": "Midwestern-Interactive/blade-helpers",
+    "description": "A collection of Blade Directive to speed up tasks that are common in Blade templates",
+    "authors": [
+        {
+            "name": "Jared Malcolm @ Midwestern Interactive",
+            "email": "jm@buildmidwestern.com",
+            "homepage": "https://midwesterninteractive.com",
+            "role": "Senior Developer"
+        }
+    ],
+    "version": "0.0.1",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "MWI\\BladeHelpers\\Providers\\BladeDirectiveProvider",
+                "MWI\\BladeHelpers\\Providers\\BladeIfDirectiveProvider"
+            ]
+        }
+    },
+    "require": {
+        "php": "^7.0",
+        "laravel/laravel": "^5.5.*"
+    }
+}

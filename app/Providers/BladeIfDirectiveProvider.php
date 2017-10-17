@@ -1,5 +1,5 @@
 <?php
-namespace App\Providers;
+namespace MWI\BladeHelpers\Providers;
 
 use Auth;
 use Blade;

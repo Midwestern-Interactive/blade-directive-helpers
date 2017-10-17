@@ -1,5 +1,5 @@
 <?php
-namespace App\Providers;
+namespace MWI\BladeHelpers\Providers;
 
 use Blade;
 use File;
