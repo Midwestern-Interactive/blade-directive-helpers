@@ -1,6 +1,6 @@
 {
     "name": "midwestern-interactive/blade-directive-helpers",
-    "description": "A collection of Blade Directive to speed up tasks that are common in Blade templates",
+    "description": "A collection of Blade Directive Helpers to speed up tasks that are common in Blade templates",
     "authors": [
         {
             "name": "Jared Malcolm @ Midwestern Interactive",
